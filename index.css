@@ -1,3 +1,15 @@
-body {
-    background-color: blue;
+html{
+    background-image: url(" https://images.pexels.com/photos/3951880/pexels-photo-3951880.jpeg?cs=srgb&dl=man-in-black-suit-jacket-holding-woman-in-white-wedding-3951880.jpg&fm=jpg");
+    background-size: cover;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+h1,.title{
+    text-align: center;
+}
+input{
+    display: flex;
+    flex-direction: column;
 }
