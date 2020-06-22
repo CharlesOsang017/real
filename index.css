@@ -13,3 +13,6 @@ input{
     display: flex;
     flex-direction: column;
 }
+p,h5,h2{
+    font-size: 200%;
+}
